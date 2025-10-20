@@ -9,5 +9,5 @@ I built and deployed this entire site myself.  <br>
 Backend with FastAPI  <br>
 Frontend with Vanilla JS
 
-Everyone has a daily limit of 20 free credits to use the site. So use it happily:  <br>
+Everyone gets 20 free tokens per day to use the site. So use it happily:  <br>
  [imagecaption.matinmohammadi.ir](https://imagecaption.matinmohammadi.ir)
