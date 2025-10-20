@@ -6,7 +6,7 @@ If you don't have the patience to find the exact name and model of the product, 
 Not entering a suitable title for the product will have a very bad effect on your product being found on that site and will lower your sales.
 
 I built and deployed this entire site myself.  <br>
-Backend with Fast API  <br>
+Backend with FastAPI  <br>
 Frontend with Vanilla JS
 
 Everyone has a daily limit of 20 free credits to use the site. So use it happily:  <br>
