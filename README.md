@@ -9,5 +9,5 @@ I built and deployed this entire site myself.  <br>
 Backend with FastAPI  <br>
 Frontend with Vanilla JS
 
-Everyone gets 20 free tokens per day to use the site. So use it happily:  <br>
+Everyone gets 50 free tokens per day to use the site. So use it happily:  <br>
  [imagecaption.matinmohammadi.ir](https://imagecaption.matinmohammadi.ir)
